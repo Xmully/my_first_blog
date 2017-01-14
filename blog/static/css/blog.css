@@ -1,8 +1,9 @@
     
       .page-header {
-        background-color:#FF0000;
+        background: url(../image/header1.jpg);
+        height: 400px;
         margin-top: 0;
-        padding: 20px 20px 20px 40px;
+        padding: 65px 30px 10px 45px;
     }
 
     .page-header h1, .page-header h1 a, .page-header h1 a:visited, .page-header h1 a:active {
@@ -51,4 +52,8 @@
     .comment {
     	margin: 20px 0px 20px 20px;
 }
+    
+
+
+
 
