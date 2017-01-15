@@ -1,9 +1,9 @@
     
       .page-header {
-        background: url(../image/header1.jpg);
+        background: url(../image/header1.jpg) no-repeat;
         height: 400px;
         margin-top: 0;
-        padding: 65px 30px 10px 350px;
+        padding: 65px 30px 10px 400px;
     }
 
     .page-header h1, .page-header h1 a, .page-header h1 a:visited, .page-header h1 a:active {
